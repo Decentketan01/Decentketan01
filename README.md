@@ -1,12 +1,11 @@
 # Welcome to My GitHub Profile!
 
-Hi, I'm Ketan Singh, a machine learning student passionate about leveraging technology to solve real-world problems. With a strong foundation in **Python**, **Rust**, **Java**, and **C**, I enjoy building efficient and innovative solutions. Here, you'll find a collection of my projects, experiments, and contributions to the open-source community.
+Hi, I’m Ketan Singh! I’m a machine learning student with a deep passion for using technology to tackle real-world challenges. I have a solid foundation in **Python**, **Rust**, and **Java**, and I love creating efficient, innovative solutions that make a difference. On this page, you’ll find a collection of my personal projects, experiments, and contributions to the open-source community. Feel free to explore my work and join me in this exciting journey of building impactful technology!
 
 ## Skills
 
-- **Programming Languages:** Python, Rust, Java, C  
-- **Frameworks:** TensorFlow, PyTorch, Spring
-- **Tools:** Git, Pandas, Jupyter Notebook, PyCharm 
+- **Programming Languages:** Python, Java, Rust 
+- **Tools:** Git, Pandas, Jupyter Notebook, Spring
 
 ## Education
 
@@ -15,16 +14,14 @@ Hi, I'm Ketan Singh, a machine learning student passionate about leveraging tech
 
 ## Contact
 
-- **Email:** ketansingh545@gmail.com
-- **LinkedIn:** [LinkedIn]  
-- **Twitter:** ketansingh545 
+- **Email:** ketansingh545@gmail.com  
+- **Twitter:** @ketansingh545 
 
 ## Interests
 
-- Exploring the use of Rust in machine learning applications.  
-- Developing efficient algorithms for large-scale data processing.  
-- Learning about the latest advancements in deep learning.  
+- Exploring the use of Python in machine learning applications.  
+- Learning Java and Python to build microservices architectures, making systems more scalable and maintainable.
+- Learning about the latest advancements in deep learning.
+- Studying Rust for embedded systems programming.
+- Trying to learn some basic DSA.  
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
