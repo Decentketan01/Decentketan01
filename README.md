@@ -6,7 +6,7 @@ I’m a artificial intelligence and machine learning student.
 
 ## Skills
 
-- **Programming Languages:** Python,Java,C++
+- **Programming Languages:** Python,C,JavaScript
 
 ## Education
 
