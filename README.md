@@ -1,11 +1,28 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Ketan
+☕ Running on coffee, bugs, and poor decisions
 
-Hi, I’m Ketan Singh!
+I love to code.  
+Coding tolerates me.
 
-I’m a artificial intelligence and machine learning student.
+## 🧠 About Me
+- 🧪 I build things that shouldn’t work (but do)
+- 🧨 My workflow looks illegal
+- 💰 I code for fun… and because rent exists
 
-## Skills
-- **Programming Languages:** Python,C,JavaScript
+## 🛠️ Languages I Suffer In
+- JavaScript 🤡
+- Python 🐍
+- Java ☕
+
+## 🐛 Debugging Rule
+> If it works, don’t touch it.
+
+Welcome to the chaos.
+
+
+
+
+  
 
 
 
